@@ -3,7 +3,7 @@
 
 /**
  * main - Entry point
- * Description: this is a c programming which we can't 
+ * Description: this is a c programming which we can't
  * use printf or puts and thier
  * alternative functions so i'm gonna use write() function
  * from a header file called unistd
