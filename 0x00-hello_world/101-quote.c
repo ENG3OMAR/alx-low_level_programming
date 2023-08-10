@@ -6,7 +6,7 @@
  * Description: this is a c programming which we can't
  * use printf or puts and thier
  * alternative functions so i'm gonna use write() function
- * from a header file called unistd
+ * from a header file called unistd.h
  * Return: Always 1 (Success)
  */
 
