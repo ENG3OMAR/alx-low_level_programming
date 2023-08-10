@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point
- * Description: This is a program written in c to calculate the size of variable 
+ * Description: This is a program written in c to calculate the size variable
  * Return: Always 0 (Success)
  */
 	int main(void)

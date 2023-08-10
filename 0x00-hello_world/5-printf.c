@@ -2,8 +2,8 @@
 
 /**
  * main - Entry point
- * this is a c prog to print a command using print f 
- * ends with a new line 
+ * this is a c prog to print a command using print f
+ * ends with a new line
  * Return: Always 0 (Success)
  */
 	int main(void)
