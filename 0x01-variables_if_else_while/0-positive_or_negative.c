@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+
 /**
  * main - Entry point is lefted void
  * Description: it is a programm generates a random value
@@ -15,7 +16,8 @@ int main(void)
 	int n;
 
 	srand(time(0));
-	n = rand() - RAND_MAX / 2;
+	n = r
+		and() - RAND_MAX / 2;
 	/* here goes the if else statement */
 	if (n > 0)
 	{
@@ -23,7 +25,7 @@ int main(void)
 	else if (n < 0)
 		printf("%d is ngeative\n", n);
 	else
-		printf("%d is zero\n");
+		printf("%d is zero\n", n);
 
 	}
 
