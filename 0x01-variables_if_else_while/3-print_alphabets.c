@@ -13,7 +13,7 @@ int main(void)
 	char lower = 'a';
 	char upper = 'A';
 
-	while (lower <= z)
+	while (lower <= 'z')
 	{
 		putchar(lower);
 
@@ -25,5 +25,7 @@ int main(void)
 
 		upper++;
 	}
+	putchar('\n');
+
 	return (0);
 }
