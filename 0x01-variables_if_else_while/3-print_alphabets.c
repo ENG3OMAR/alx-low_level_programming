@@ -10,8 +10,8 @@
 
 int main(void)
 {
-	int lower = 'a';
-	int upper = 'A';
+	char lower = 'a';
+	char upper = 'A';
 
 	while (lower <= z)
 	{
