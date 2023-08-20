@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-/** main - Entry Point
+/**
+ * main - Entry Point
  * this i a program to print
  * all the alphabet characters
  * without q and e
@@ -13,7 +14,7 @@ int main(void)
 
 	for (all = 'a'; all <= 'z'; all++)
 	{
-		if (all != 'q' && all!= 'e')
+		if (all != 'q' && all != 'e')
 		{
 		putchar(all);
 		}
