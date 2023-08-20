@@ -8,10 +8,9 @@
 
 int main(void)
 {
-	/*declaration*/
 	int num = '1';
 	char ch = 'a';
-	/*for loop*/
+
 	for (num = '1'; num <= '9'; num++)
 	{
 	putchar(num);
@@ -19,8 +18,8 @@ int main(void)
 	for (ch = 'a'; ch <= 'f'; ch++)
 	{
 	putchar(ch);
-	{
-	putchar('\n');
 	}
+	putchar('\n');
+
 	return (0);
 }
