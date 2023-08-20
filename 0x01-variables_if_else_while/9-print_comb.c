@@ -8,6 +8,7 @@
 int main(void)
 {
 	int n = '0';
+	int z = '9';
 
 	for (n = '0'; n <= '9'; n++)
 	{
@@ -15,6 +16,6 @@ int main(void)
 		putchar(44);
 		putchar(32);
 	}
-	putchar('\n');
+	putchar('z);
 	return (0);
 }
