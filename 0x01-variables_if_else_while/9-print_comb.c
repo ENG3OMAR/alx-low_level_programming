@@ -8,14 +8,16 @@
 int main(void)
 {
 	int n = '0';
-	int z = '9';
 
-	for (n = '0'; n <= '8'; n++)
+	for (n = '0'; n <= '9'; n++)
 	{
 		putchar(n);
+		if (n != '9')
+		{
 		putchar(44);
 		putchar(32);
+		}
 	}
-	putchar(z);
+	putchar('\n');
 	return (0);
 }
