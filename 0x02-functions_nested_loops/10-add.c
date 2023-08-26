@@ -2,9 +2,10 @@
 #include "main.h"
 
 /**
- * add - add two integers
- * @a: two integer arguments
- * Return: sum
+ * add - A function that adds two integers.
+ * @a: integer number
+ * @b: integer number
+ * Return: Result of the addition.
  */
 
 int add(int a, int b)
